@@ -117,7 +117,7 @@ const ProfileForm = (props) => {
       objToSend.password = password;
     }
 
-    return fetch('/api/user/profile', {
+    return fetch('/api/users/profile', {
       method: 'PATCH',
       headers: {
         'Content-Type': 'application/json',
