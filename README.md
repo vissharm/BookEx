@@ -1,3 +1,15 @@
-# BOOK-EXCHANGE
+### Install dependencies
+```bash
+npm install
+```
 
-Fullstack assignment created for WILP Bits FullStack App Development course.
+### Run in development
+```bash
+npm run dev
+```
+
+### Start an instance
+```bash
+npm start
+```
+

@@ -1,0 +1,321 @@
+.register-form {
+  width: 400px;
+  display: block;
+  justify-items: center;
+}
+
+.field-form {
+  min-width: 400px;
+}
+
+.phone-field {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 40px;
+}
+
+.register-container {
+  justify-content: center;
+  display: grid;
+  margin-top: 100px;
+}
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+div.MuiDataGrid-editInputCell { 
+    width: 100%;
+    min-height: min-content !important;
+}
+
+.error-cell {
+    border: 1px solid red !important;
+}
+
+.p-b-2 {
+    padding-bottom: 2px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-7 {
+    padding: 7px;
+}
+
+.p-r-5 {
+    padding-right: 15px;
+}
+
+.p-l-5 {
+    padding-left: 15px;
+}
+
+.dash-icon {
+    height: 335px;
+    width: 290px;
+    margin-top: 10px;
+    background: bisque;
+    border-radius: 20px;
+}
+
+.dash-card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-color: currentcolor !important;
+    border-radius: 30px;
+  }
+
+.dash-icon-wrapper {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-left: 10px !important;
+    margin-bottom: 10px;
+}
+  
+.dash-card {
+    margin-left: 30px;
+    width: 100% !important;
+    margin-bottom: 8px;
+}
+  
+.dash-card-child {
+    height: 100% !important;
+    margin-left: 30px;
+    min-width: -webkit-fill-available;
+    margin-left: 40px !important;
+    display: contents;
+    
+    .card-panel {
+        margin-bottom: 0px !important;
+        border-radius: 20px;
+        padding: 25.4px !important;
+        background-color: tan !important;
+    }
+  }
+
+  .list {
+    list-style-type: square;
+    list-style-position: inside;
+  }
+
+  .dashboard-title {
+    margin-top: 150px;
+    width: 50%;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    background-color: darksalmon !important;
+    font-family: math;  
+  }
+
+  .MuiDataGrid-toolbarContainer {
+    background-color: azure;
+  }
+
+  .MuiTablePagination-root {
+    background-color: navajowhite;
+  }
+
+  .css-yseucu-MuiDataGrid-columnHeaderRow {
+    background-color: grey;
+  }
+
+  .selectedRow {
+    background-color: lightskyblue !important; /* Light blue background for selected rows */
+  }
+  
+  .editingRow {
+    background-color: rgba(255, 214, 0, 0.2) !important; /* Light yellow background for editing rows */
+  }
+
+  .form-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+  }
+
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    padding-left: 5px;
+  }
+
+  .form-group input:disabled,
+  .form-group select:disabled,
+  .form-group textarea:disabled {
+    background-color: #f0f0f0;
+    color: #666;
+    border-color: #ddd;
+    padding-left: 5px;;
+  }
+
+  .field-wrapper {
+    display: flex;
+    position: relative;
+    margin-bottom: 5px;
+    align-items: center;
+  }
+
+  .field-label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .field-control {
+    display: flex;
+    visibility: visible !important;
+    position: static !important;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .css-yseucu-MuiDataGrid-columnHeaderRow {
+    background-color: darksalmon !important;
+  }
+
+  .dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dropdown-trigger {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .max-width {
+    top: 65px !important;
+  }
+
+  .m-l-10 {
+    margin-left: 10px;
+  }
+
+  .m-b-40 {
+    margin-bottom: 40px;
+  }
+
+  .m-t-20 {
+    margin-top: 20px;
+  }
+
+  input::placeholder {
+    font-weight: bold;
+    color: #888;
+  }
+
+  input[disabled] {
+    font-weight: bold; /* Or use a specific weight, e.g., 600 */
+    color: black !important;
+  }
+
+  .input-field {
+    label {
+      font-weight: bold;
+      color: #888;
+    }
+  }
+
+  .profile-checkbox {
+    left: -10px !important;
+    visibility: visible !important;
+    top: 5px;
+  }
+
+  .profile-checkbox-label {
+    font-size: smaller;
+    margin-left: 8px;
+  }
+
+  .c-gray {
+    color: gray !important;
+  }
+
+  .profile-container {
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 30px !important;
+    border-width: thick !important;
+    border-color: cadetblue !important;
+    border: solid !important;
+    background: snow;
+  }
+
+  .profile-title {
+    margin-bottom: 60px;
+    color: darkslategrey;
+    font-weight: 900;
+  }
+
+  .loader-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10; /* Ensure it sits on top of the grid */
+  }
+  
+  .grid-container {
+    position: relative;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+
+  .register-form-div {
+    display: flex;
+  }
+
+  .register-form-button {
+    height: fit-content;
+    margin-top: 10px;
+    background-color: lightseagreen;
+    border-radius: 4px;
+    border: solid 1px;
+    display: flex;
+    position: absolute;
+    right: 0;
+    margin-right: 17px;
+    color: aliceblue;
+  }
+
+  .m-t-26 {
+    margin-top: 26px !important;
+  }

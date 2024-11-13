@@ -1,0 +1,22 @@
+body {
+  background-color: #9aafb0;
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+hr {
+  border: 0.2px solid #4a4141;
+  width: 80vw;
+}
+
+h1 {
+  margin: 25px;
+  text-align: center;
+  font-family: 'Bodoni Moda', serif;
+  font-size: 45px;
+  color: #4a4141;
+}
+
+a {
+  text-decoration: none;
+  color: #4a4141;
+}
