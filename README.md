@@ -13,3 +13,4 @@ npm run dev
 npm start
 ```
 
+![image](https://github.com/user-attachments/assets/28806330-f263-4d0c-a714-f0c0908beaa8)
