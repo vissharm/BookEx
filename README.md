@@ -14,6 +14,9 @@ npm start
 ```
 
 **Architecture image (Full design - Implementation is not that from deployment perspective)**
+![image](https://github.com/user-attachments/assets/5d54ea6a-fb97-426f-8a65-335fa7381ae5)
+
+**Sequence diagram along with use-cases coverage**
 ![image](https://github.com/user-attachments/assets/28806330-f263-4d0c-a714-f0c0908beaa8)
 
 
