@@ -1,5 +1,12 @@
 **Done as part of MTech S/W Engg. Assignment**
 
+## Backend - ExpressJs
+## Frontend - ReactJs
+## Postgres Database
+## Webpack – Bundler/Transpiler & Local development server
+## Third party libraries like MUI react data grid and others specified as part of package.json
+## Email services integration using MailTrap
+
 ### Install dependencies
 ```bash
 npm install
