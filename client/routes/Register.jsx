@@ -284,7 +284,7 @@ const Register = (props) => {
                           <input
                             className='field-form'
                             type="text"
-                            placeholder="Zipcode"
+                            placeholder="Address"
                             name="address"
                             id="address"
                             required
