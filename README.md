@@ -1,5 +1,6 @@
 **Done as part of MTech S/W Engg. Assignment**
 
+# Tech stack :-
 ## Backend - ExpressJs
 ## Frontend - ReactJs
 ## Postgres Database
