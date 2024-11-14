@@ -1,12 +1,14 @@
 **Done as part of MTech S/W Engg. Assignment**
 
 # Tech stack :-
-## Backend - ExpressJs
-## Frontend - ReactJs
-## Postgres Database
-## Webpack – Bundler/Transpiler & Local development server
-## Third party libraries like MUI react data grid and others specified as part of package.json
-## Email services integration using MailTrap
+### Backend - ExpressJs
+### Frontend - ReactJs
+### Postgres Database
+### Webpack – Bundler/Transpiler & Local development server
+### Third party libraries like MUI react data grid and others specified as part of package.json
+### Email services integration using MailTrap
+
+## Scripts to build and run local development server
 
 ### Install dependencies
 ```bash
