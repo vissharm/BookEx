@@ -6,7 +6,7 @@
 * Postgres Database
 * Webpack – Bundler/Transpiler & Local development server
 * Third party libraries like MUI react data grid and others specified as part of package.json
-* Email services integration using MailTrap
+* Email services integration using MailTrap - forgot password, profile updates, change password secure notifications/reset using email communication
 
 # Scripts to build and run local development server
 
