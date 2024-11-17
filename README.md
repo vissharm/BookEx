@@ -1,5 +1,7 @@
 **Done as part of MTech S/W Engg. Assignment**
 
+Demo recordings: https://drive.google.com/drive/folders/13Xz9dm6qeBjiPjzLZmtFpeZFL6TJ36Qj?usp=drive_link
+
 # Tech stack :-
 * Backend - ExpressJs
 * Frontend - ReactJs
